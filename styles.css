@@ -1,0 +1,53 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #eeeeee;
+  font-family: font-family: 'Sora', sans-serif;
+}
+
+h1 {
+  margin: 40px;
+  font-size: 6rem;
+  color: #ff5722;
+}
+
+p {
+  font-size: 3rem;
+  color: #dd2c00;
+  font-weight: 600;
+}
+
+img {
+  width: 40%;
+}
+
+footer {
+  color: #dd2c00;
+  position: absolute;
+  margin-top: 10em;
+  margin-left: 40em;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ED2C49;
+}
